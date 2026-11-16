@@ -24,7 +24,7 @@
     "@types/seedrandom": "^3.0.8",
     "eslint": "^9.39.4",
     "eslint-config-next": "^15.5.18",
-    "typescript": "^5.9.3",
+    "typescript": "^7.0.2",
     "wrangler": "^4.97.0"
   },
   "scripts": {
